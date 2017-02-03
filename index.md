@@ -1,5 +1,6 @@
 # Welcome to ASTR8011 Observational Techiniques 
-### Course Time: Monday 10am-12pm; Tuesday 2pm-4pm
+
+Course Time: Monday 10am-12pm; Tuesday 2pm-4pm
 
 
 You can use the [editor on GitHub](https://github.com/obstechanu/obstech/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
