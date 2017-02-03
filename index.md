@@ -1,4 +1,4 @@
-## Welcome to ASTR8011 Observational Techiniques 
+# Welcome to ASTR8011 Observational Techiniques 
 ## 2017 Course Website
 
 
