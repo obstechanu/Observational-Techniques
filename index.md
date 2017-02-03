@@ -1,5 +1,5 @@
 # Welcome to ASTR8011 Observational Techiniques 
-## 2017 Course Website
+### 2017 Course Website
 
 
 You can use the [editor on GitHub](https://github.com/obstechanu/obstech/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
