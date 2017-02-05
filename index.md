@@ -7,7 +7,7 @@
 
 
 ## Assessments
-2 Aignments\\
+2 assignments\\
 4 projects\\
 1 observing proposal
 
