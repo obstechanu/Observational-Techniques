@@ -7,6 +7,8 @@
 
 
 ## Assessments
-
+2 Aignments\\
+4 projects\\
+1 observing proposal
 
 ## Notes From Class
