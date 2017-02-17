@@ -15,3 +15,6 @@ This course is designed to introduce the concept of astronomical observations. T
 1 observing proposal 30%
 
 ## Notes From Class
+
+Desgned to be printed with pen notes. \\
+[Lecture 1 handout](l1_handout.pdf) 
