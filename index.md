@@ -7,7 +7,9 @@ This course is designed to introduce the concept of astronomical observations. T
 
 ## Course Announcements
 
-
+After lecture 2, all notes will be placed on ANU's 
+[Wattle site](https://wattlecourses.anu.edu.au/). 
+Email michael.ireland - AT - anu.edu.au with your University ID if you want access.
 
 ## Assessments
 2 assignments 15%\\
