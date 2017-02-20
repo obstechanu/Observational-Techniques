@@ -18,10 +18,10 @@ Email michael.ireland - AT - anu.edu.au with your University ID if you want acce
 
 ## Notes From Class
 
-Desgned to be printed with pen notes. \\
+Slides desgned to be printed with pen notes: \\
 [Lecture 1 handout](l1_handout.pdf) \\
 [Lecture 2 handout](l2_handout.pdf)
 
-Slides (with hyperlinks) \\ 
+Slides (with hyperlinks): \\
 [Lecture 1 slides (20 Feb)](l1bm.pdf) \\
 [Lecture 2 slides (21 Feb)](l2bm.pdf)
