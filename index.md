@@ -11,7 +11,7 @@ This course is designed to introduce the concept of astronomical observations. T
 
 ## Assessments
 2 assignments 15%\\
-4 projects 55% \\
+3 projects 55% \\
 1 observing proposal 30%
 
 ## Notes From Class
