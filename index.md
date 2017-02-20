@@ -17,4 +17,6 @@ This course is designed to introduce the concept of astronomical observations. T
 ## Notes From Class
 
 Desgned to be printed with pen notes. \\
-[Lecture 1 handout](l1_handout.pdf) 
+[Lecture 1 handout](l1_handout.pdf)
+Slides (with hyperlinks)\\ 
+[Lecture 1 slides](l1bm.pdf)
